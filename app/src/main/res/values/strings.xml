@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Classic Games</string>
+    <string name="campo_minado">Campo Minado</string>
+    <string name="title_activity_campo_minado">Campo Minado</string>
+    <string name="perdeu">Você perdeu.</string>
+    <string name="venceu">Parabéns. Você venceu.</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="title_activity_campo_minado_ajuda">Ajuda</string>
+    <string name="embreve">Em breve...</string>
+    <string name="jogo_memoria">Jogo da Memoria</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="jogo_velha">Jogo da Velha</string>
+</resources>
